@@ -1,6 +1,7 @@
 # About Me:
 
 Electronic Engineer
+Currently working at UCM
 
 
 ## Socials:
