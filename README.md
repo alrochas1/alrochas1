@@ -14,5 +14,5 @@ Currently working at Universidad Complutense de Madrid (UCM)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-rochas-fern%C3%A1ndez-6b9b0b1b8/)  
 
 Email (personal): arochasf01@gmail.com  
-Email (UCM): alrochasf@ucm.es
+Email (UCM): alrochas@ucm.es
 
