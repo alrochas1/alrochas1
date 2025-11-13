@@ -2,7 +2,7 @@
 
 Electronic Engineer specialized in robotics and autonomous systems.
 
-Currently working at Universidad Complutense de Madrid (UCM)
+Currently working as an Embedded Software Engineer at GMV. Former employee at Universidad Complutense de Madrid (UCM).
 
 
 # Tech Stack:
