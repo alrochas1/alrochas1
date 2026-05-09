@@ -1,6 +1,6 @@
 # About Me:
 
-Electronic Engineer specialized in robotics and autonomous systems.
+Electronics Engineer specialized in embedded software, navigation and autonomous systems.
 
 Currently working as an Embedded Software Engineer at GMV. Former employee at Universidad Complutense de Madrid (UCM).
 
